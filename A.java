@@ -14,8 +14,16 @@ class C{
 		System.out.println("C class ");
 	}
 }
+
 class E{
 	public static void main(String[] args) {
 		System.out.println("E class ");
 	}
 }
+
+class D{
+	public static void main(String[] args) {
+		System.out.println("D class ");
+	}
+}
+
