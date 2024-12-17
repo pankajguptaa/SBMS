@@ -27,3 +27,15 @@ class D{
 	}
 }
 
+class H{
+	public static void main(String[] args) {
+		System.out.println("H class ");
+		public void m1(){
+			//logic is remaing
+
+		}
+		 
+	}
+}
+
+
