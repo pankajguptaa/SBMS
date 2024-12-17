@@ -30,6 +30,7 @@ class D{
 class H{
 	public static void main(String[] args) {
 		
+		//AA-101
 		public void m1(){
 			int i = 19;
 			int j = 20;
@@ -37,17 +38,13 @@ class H{
 			//logic is remaing
 			System.out.println("H class ");
 		}
-<<<<<<< Updated upstream
 		//AA-102
 		public void m2(){
 			String name = "Pankaj";
 			String email = "pankajgupta211@gmail.com";
 			String address = "New Delhi";
 		}	 
-=======
 
-		 
->>>>>>> Stashed changes
 	}
 }
 
