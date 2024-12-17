@@ -34,7 +34,12 @@ class H{
 			//logic is remaing
 
 		}
-		 
+		//AA-102
+		public void m2(){
+			String name = "Pankaj";
+			String email = "pankajgupta211@gmail.com";
+			String address = "New Delhi";
+		}	 
 	}
 }
 
